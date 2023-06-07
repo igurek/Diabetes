@@ -9,6 +9,8 @@ What effect do factors such as pregnancy, glucose, blood pressure, and skin thic
 Which variable has the most impact on being diabetic?
 What is the relationship between weight and skin thickness?
 What is the relationship between genetic information and diabetes?
+
+
 Data Analysis Approach:
 The project utilizes various data science techniques and methodologies to explore and analyze the provided dataset. Statistical analysis, data visualization, and machine learning algorithms are employed to gain deeper insights and answer the research questions.
 
